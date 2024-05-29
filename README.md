@@ -6,6 +6,7 @@
 
 - [Introduction](#introduction)
 - [File Description](#file-description)
+- [Network Example](#network-example)
 - [Usage](#usage)
   - [Model Training and Hyperparameter Selection](#model-training-and-hyperparameter-selection)
   - [Validation Set Performance Testing](#validation-set-performance-testing)
@@ -52,4 +53,4 @@ Thanks to all contributors to this project, especially my supervisors Defang OUY
 
 ## License
 
-This project is my master thesis and not allowed to copy without my permission!!
+This project is my master thesis and no one can copy in any form without my permission!!!
