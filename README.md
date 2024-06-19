@@ -11,14 +11,14 @@
   - [Model Training and Hyperparameter Selection](#model-training-and-hyperparameter-selection)
   - [Validation Set Performance Testing](#validation-set-performance-testing)
 - [Data](#data)
-- [Contributors](#contributors)
+- [Acknowledgements](#acknowledgements)
 - [License](#license)
 
 ## Introduction
 
-Yicong DING (University of Macau, master thesis)
+Author: Yicong DING (University of Macau)
 
-This repository aims to provide detailed code for my thesis, allowing users to optimize the model's performance by adjusting various hyperparameters. We also provide a separate script for testing the model's performance on a validation set after selecting the best hyperparameters.
+This repository aims to provide detailed code of the project, allowing users to optimize the model's performance by adjusting various hyperparameters. We also provide a separate script for testing the model's performance on a validation set after selecting the best hyperparameters.
 
 ## File Description
 
@@ -47,10 +47,10 @@ This repository aims to provide detailed code for my thesis, allowing users to o
 
 All related data (including datasets and network diagrams) can be found at the following link: [Project Data Link](https://drive.google.com/drive/folders/1uPnhdctQK4qsNEmGkpP4dNkZsKOkkYVz?usp=sharing).
 
-## Contributors
+## Acknowledgements
 
 Thanks to all contributors to this project, especially my supervisors Defang OUYANG and Yuanjia HU.
 
 ## License
 
-This project is my master thesis and no one can copy in any form without my permission!!!
+This project is licensed under the GPL License. See the [LICENSE](LICENSE.txt) file for details.
